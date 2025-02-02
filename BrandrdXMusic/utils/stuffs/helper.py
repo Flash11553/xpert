@@ -55,19 +55,19 @@ Dayandırmaq üçün: /tagoff /tagstop"""
 
 Qrup idarəetmə əmrləri:
 
-⦿ /sg və ya /tarixçə  
+⦿ /sm  
 Təsadüfi bir istifadəçinin mesaj tarixçəsindən məlumat toplayır.
 
 İstifadə qaydası:  
-⦿ /sg [istifadəçi adı/ID/cavab ver]
+⦿ /sm [istifadəçi adı/ID/cavab ver]
 Detallar:  
 ⦿ Mesaj tarixçəsindən istifadəçinin mesajını göstərir. Ad, ID və ya cavab verərək istifadə olunur.  
 Yalnız bot köməkçiləri üçün keçərlidir.
 
 Nümunələr:  
-⦿ /sg istifadəçi_adı  
-⦿ /sg istifadəçi_ID  
-⦿ /sg [mesaja cavab ver]
+⦿ /sm istifadəçi_adı  
+⦿ /sm istifadəçi_ID  
+⦿ /sm [mesaja cavab ver]
 """
 
     HELP_Couples = """Cütlüklər
