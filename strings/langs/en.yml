@@ -376,6 +376,18 @@ server_13 : "<b>⇆ Yükləmə sürət testi aparılır...</b>"
 server_14 : "<b>↻ Sürət testinin nəticələri paylaşılır...</b>"
 server_15 : "✯ <b>Sürət Testinin Nəticələri</b> ✯\n\n<u><b>Müştəri:</b></u>\n<b>» ISP :</b> {0}\n<b>» Ölkə :</b> {1}\n\n<u><b>Server:</b></u>\n<b>» Adı :</b> {2}\n<b>» Ölkə :</b> {3}, {4}\n<b>» Sponsor :</b> {5}\n<b>» Gecikmə :</b> {6}\n<b>» Ping :</b> {7}"
 
-
-
-
+gban_1 : "» Özünü niyə qlobal olaraq banlamaq istəyirsən?"
+gban_2 : "» Mən niyə özümü banlamalıyam?"
+gban_3 : "» Sən mənim sudo istifadəçilərimi banlaya bilməzsən."
+gban_4 : "» {0} artıq botdan qlobal olaraq banlanıb."
+gban_5 : "» {0} üçün qlobal ban başladılır.\n\n<b>Gözlənilən vaxt:</b> {1}"
+gban_6 : "<b><u>{0} üçün yeni qlobal ban:</u></b>\n\n<b>Mənşə:</b> {1} [<code>{2}</code>]\n<b>İstifadəçi:</b> {3}\n<b>İstifadəçi ID:</b> {4}\n\n<b>Banlayan:</b> {5}\n<b>Çatlar:</b> </code>{6}</code>"
+gban_7 : "» {0} botdan qlobal olaraq banlanmayıb."
+gban_8 : "» {0} üçün qlobal ban ləğv edilir.\n\n<b>Gözlənilən vaxt:</b> {1}"
+gban_9 : "» {0} üçün qlobal ban ləğv edildi.\n\n{1} çatda unban edildi."
+gban_10 : "» Botdan heç kim qlobal olaraq banlanmayıb."
+gban_11 : "» Qlobal olaraq banlanmış istifadəçilər siyahısı gətirilir..."
+gban_12 : "🙂 <b>Qlobal olaraq banlanmış istifadəçilər:</b>\n\n"
+gban_log : "乛🖇️ 𝙔𝙚𝙣𝙞 𝙌𝙡𝙤𝙗𝙖𝙡 𝘽𝙖𝙣 ~\n°───────❅───────°\n\n❄️ 𝘉𝘢𝘯𝘭𝘢𝘺𝘢𝘯 ~ {0} [ @{1} ] !\n• ─────── •\n☘️ 𝘉𝘢𝘯𝘭𝘢𝘯𝘮𝘪𝘴 𝘪𝘴𝘵𝘪𝘧𝘢𝘥𝘦𝘤𝘪 ~ {2} !\n• ─────── •\n🍂 𝘚𝘦𝘣𝘦𝘣 ~ {3}\n\n•───────────────────•"
+gban_warning : "🖇️ {0} qlobal olaraq banlanıb..!!\n\n[⚠️] Əgər əsaslı bir səbəb olmadan qlobal ban versən, sudo istifadəçilərdən çıxarılacaqsan. Ona görə diqqətli ol..!!\n\n 🍂 Hörmətlə ~ @Tgsahibi010"
+ugban_log : "乛🌿 𝙔𝙚𝙣𝙞 𝙌𝙡𝙤𝙗𝙖𝙡 𝘽𝙖𝙣 𝙇əğ𝙫𝙞 ~\n°───────❅───────°\n\n🍂 𝘉𝘢𝘯ı 𝘓əğ𝘷 𝘌𝘥ə𝘯 ~ {0} [ @{1} ] !\n• ─────── •\n⛓️ 𝘜𝘯-𝘎𝘉𝘢𝘯𝘭𝘢𝘯𝘮ı𝘴 𝘪𝘴𝘵𝘪𝘧𝘢𝘥𝘦ç𝘪 ~ {2} !\n• ─────── •\n☘️ 𝘚𝘦𝘣𝘦𝘣 ~ {3}\n\n•───────────────────•"
