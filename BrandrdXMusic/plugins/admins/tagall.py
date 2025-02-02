@@ -79,7 +79,7 @@ TAGMES = [ "Ə𝗴ə𝗿 𝗯𝗶𝗿 ş𝗲𝘆𝗶 𝘁𝗮𝗺𝗮𝗺𝗶�
 "Ö𝘇 𝘅𝗼ş𝗯ə𝘅𝘁𝗹𝗶𝘆𝗶𝗻𝗶𝘇 𝗯𝗮ş𝗾𝗮𝘀ı𝗻ı𝗻 𝗸ə𝗱ə𝗿𝗶𝗻ə 𝘀ə𝗯ə𝗯 𝗼𝗹𝘀𝗮, 𝘅𝗼ş𝗯ə𝘅𝘁 𝗼𝗹𝗺𝗮ğ𝗮 𝗱𝗮𝘃𝗮𝗺 𝗲𝗱ə𝗿𝗱𝗶𝗻𝗶𝘇𝗺𝗶? 😊➡️😢❓",
          ]
 
-@app.on_message(filters.command(["tagall"], prefixes=["/", "@", ".", "#"]))
+@app.on_message(filters.command(["tagall"], prefixes=["/", "@", "#"]))
 async def mentionall(client, message):
     chat_id = message.chat.id
     if message.chat.type == ChatType.PRIVATE:
