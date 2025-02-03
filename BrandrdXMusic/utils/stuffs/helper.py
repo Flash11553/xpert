@@ -11,7 +11,7 @@ Bütün əmrlər belə istifadə oluna bilər: /
 
 ChatGPT ƏMRLƏRİ:
 
-/de (/ask) ➠ Süni Zəka modelinə suallarınızı verib cavab alın.
+/effect (/ask) ➠ Süni Zəka modelinə suallarınızı verib cavab alın.
 """
 
     HELP_Reel = """Relslər
