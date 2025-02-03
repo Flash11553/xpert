@@ -3,7 +3,7 @@ from BrandrdXMusic import app
 from pyrogram.enums import ChatAction, ParseMode
 from pyrogram import filters
 
-@app.on_message(filters.command(["chatgpt", "ai", "ask", "iri", "de", "!", "alo", "effect"], prefixes=[".", "J", "j", "s", "/", ""]))
+@app.on_message(filters.command(["chatgpt", "ai", "ask", "gpt", "effect"], prefixes=[".", "!", "/", ""]))
 async def chat_gpt(bot, message):
     try:
         # Indicate typing action
