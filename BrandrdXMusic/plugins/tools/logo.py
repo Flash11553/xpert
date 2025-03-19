@@ -8,7 +8,6 @@ from telethon import TelegramClient, events
 BOT_NAME = "Effect"
 BOT_USERNAME = "YourBotUsernamsje"
 OWNER_ID = 5967971901  # Replace with your owner ID
-telethn = TelegramClient('bot', 'api_id', 'api_hash')  # Initialize with your API credentials
 
 LOGO_LINKS = [
     "https://telegra.ph/file/d1838efdafce9fe611d0c.jpg",
