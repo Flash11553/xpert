@@ -18,7 +18,6 @@ LOGO_LINKS = [
     # Add more URLs here as needed...
 ]
 
-@telethn.on(events.NewMessage(pattern=r"^/logo ?(.*)"))
 async def lego(event):
     # Get the query from the message
     quew = event.pattern_match.group(1)
