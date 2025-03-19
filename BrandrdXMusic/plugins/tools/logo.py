@@ -6,8 +6,8 @@ import random
 import requests
 from PIL import Image, ImageDraw, ImageFont
 
-from effectmusic import BOT_NAME, BOT_USERNAME, OWNER_ID, telethn
-from effectmusic.events import register
+from FallenRobot import BOT_NAME, BOT_USERNAME, OWNER_ID, telethn
+from FallenRobot.events import register
 
 LOGO_LINKS = [
     "https://telegra.ph/file/d1838efdafce9fe611d0c.jpg",
