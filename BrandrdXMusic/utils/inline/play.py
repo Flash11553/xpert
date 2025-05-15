@@ -68,7 +68,7 @@ def stream_markup_timer(_, vidid, chat_id, played, dur):
         ],
         [
             InlineKeyboardButton(
-                text="⛦ ᴋᴜʀᴜᴄᴜ ❥", url=f"https://t.me/Tgsahibi010"
+                text="⛦ ᴋᴜʀᴜᴄᴜ ❥", url=f"https://t.me/Legnddi"
             ),
             InlineKeyboardButton(
                 text="⛦ sᴜᴘᴘᴏʀᴛ ❥", url=f"https://t.me/Xpert_Support"
@@ -90,7 +90,7 @@ def stream_markup(_, videoid, chat_id):
         ],
         [
             InlineKeyboardButton(
-                text="⛦ ᴋᴜʀᴜᴄᴜ ❥", url=f"https://t.me/Tgsahibi010"
+                text="⛦ ᴋᴜʀᴜᴄᴜ ❥", url=f"https://t.me/Legnddi"
             ),
             InlineKeyboardButton(
                 text="⛦ sᴜᴘᴘᴏʀᴛ ❥", url=f"https://t.me/Xpert_Support"
@@ -245,7 +245,7 @@ def stream_markup2(_, chat_id):
         ],
 [
             InlineKeyboardButton(
-                text="⛦ ᴋᴜʀᴜᴄᴜ ❥", url=f"https://t.me/Tgsahibi010"
+                text="⛦ ᴋᴜʀᴜᴄᴜ ❥", url=f"https://t.me/Legnddi"
             ),
             InlineKeyboardButton(
                 text="⛦ sᴜᴘᴘᴏʀᴛ ❥", url=f"https://t.me/Xpert_Support"
