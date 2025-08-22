@@ -119,7 +119,7 @@ async def braodcast_message(client, message, _):
         text = _["broad_6"]
         from AnonXMusic.core.userbot import assistants
 
-for num in assistants:
+        for num in assistants:
             sent = 0
             client = await get_client(num)
             async for dialog in client.get_dialogs():
@@ -167,3 +167,4 @@ async def auto_clean():
 
 
 asyncio.create_task(auto_clean())
+                                 
